@@ -1,3 +1,5 @@
 {
-    "staff": ["[FR/EN] ottpossum", " [FR/EN] LeaRobaze (when not dj)", "[FR/EN] Rudy Dudule"]
+    "staff": ["[FR/EN] ottpossum", " [FR/EN] LeaRobaze (when not dj)", "[FR/EN] Rudy Dudule"],
+    "allowed_djs": ["molresa", "BattleKau", "TygronSaber", "OmegaSol"],
+    "allowed_staffs": ["ottpossum", "LeaRobaze", "Rudy Dudule"]
 }
