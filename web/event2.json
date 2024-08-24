@@ -8,14 +8,16 @@
             "allowStaffBalcony": true,
             "allowPlayerControl": true,
             "allowDMXswitch": true,
-            "allowStaffControls": true
+            "allowStaffControls": true,
+            "allowCameraControl": true
         },
         "potathott": {
             "role": "staff",
             "isMod": false,
             "allowDjBooth": true,
             "allowStaffBalcony": true,
-            "allowPlayerControl": true
+            "allowPlayerControl": true,
+            "allowCameraControl": true
         },
         "LeaRobaze": {
             "role": "staff",
@@ -25,7 +27,8 @@
             "allowStaffBalcony": true,
             "allowPlayerControl": true,
             "allowDMXswitch": true,
-            "allowStaffControls": true
+            "allowStaffControls": true,
+            "allowCameraControl": true
         },
         "Rudy Dudule": {
             "role": "staff",
@@ -33,56 +36,65 @@
             "isMod": true,
             "allowDjBooth": true,
             "allowStaffBalcony": true,
-            "allowPlayerControl": true
+            "allowPlayerControl": true,
+            "allowCameraControl": true
         },
         "molresa": {
             "role": "dj",
             "allowDjBooth": true,
             "allowStaffBalcony": true,
-            "allowPlayerControl": true
+            "allowPlayerControl": true,
+            "allowCameraControl": true
         },
         "BattleKau": {
             "role": "dj",
             "allowDjBooth": true,
             "allowStaffBalcony": true,
-            "allowPlayerControl": true
+            "allowPlayerControl": true,
+            "allowCameraControl": true
         },
         "TygronSaber": {
             "role": "dj",
             "allowDjBooth": true,
             "allowStaffBalcony": true,
             "allowPlayerControl": true,
-            "allowDMXswitch": true
+            "allowDMXswitch": true,
+            "allowCameraControl": true
         },
         "OmegaSol": {
             "role": "dj",
             "allowDjBooth": true,
             "allowStaffBalcony": true,
-            "allowPlayerControl": true
+            "allowPlayerControl": true,
+            "allowCameraControl": true
         },
         "Skally Lad": {
             "role": "dj",
             "allowDjBooth": true,
             "allowStaffBalcony": true,
-            "allowPlayerControl": true
+            "allowPlayerControl": true,
+            "allowCameraControl": true
         },
         "Chantaro": {
             "role": "dj",
             "allowDjBooth": true,
             "allowStaffBalcony": true,
-            "allowPlayerControl": true
+            "allowPlayerControl": true,
+            "allowCameraControl": true
         },
         "Aurelia's Wrath": {
             "role": "dj",
             "allowDjBooth": true,
             "allowStaffBalcony": true,
-            "allowPlayerControl": true
+            "allowPlayerControl": true,
+            "allowCameraControl": true
         },
         "Goggs": {
             "role": "dj",
             "allowDjBooth": true,
             "allowStaffBalcony": true,
-            "allowPlayerControl": true
+            "allowPlayerControl": true,
+            "allowCameraControl": true
         }
     }
 }
