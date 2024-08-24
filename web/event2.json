@@ -14,7 +14,7 @@
             "allowMicControl": true
         },
         "potathott": {
-            "role": "staff",
+            "role": "bot",
             "isMod": false,
             "allowDjBooth": true,
             "allowStaffBalcony": true,
@@ -37,7 +37,7 @@
             "allowMicControl": true
         },
         "Rudy Dudule": {
-            "role": "staff",
+            "role": "moderator",
             "langs": "fr/en",
             "isMod": true,
             "allowDjBooth": true,
