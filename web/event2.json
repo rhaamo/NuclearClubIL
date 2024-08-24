@@ -1,0 +1,88 @@
+{
+    "acl": {
+        "ottpossum": {
+            "role": "staff",
+            "langs": "fr/en",
+            "isMod": true,
+            "allowDjBooth": true,
+            "allowStaffBalcony": true,
+            "allowPlayerControl": true,
+            "allowDMXswitch": true,
+            "allowStaffControls": true
+        },
+        "potathott": {
+            "role": "staff",
+            "isMod": false,
+            "allowDjBooth": true,
+            "allowStaffBalcony": true,
+            "allowPlayerControl": true
+        },
+        "LeaRobaze": {
+            "role": "staff",
+            "langs": "fr/en",
+            "isMod": true,
+            "allowDjBooth": true,
+            "allowStaffBalcony": true,
+            "allowPlayerControl": true,
+            "allowDMXswitch": true,
+            "allowStaffControls": true
+        },
+        "Rudy Dudule": {
+            "role": "staff",
+            "langs": "fr/en",
+            "isMod": true,
+            "allowDjBooth": true,
+            "allowStaffBalcony": true,
+            "allowPlayerControl": true
+        },
+        "molresa": {
+            "role": "dj",
+            "allowDjBooth": true,
+            "allowStaffBalcony": true,
+            "allowPlayerControl": true
+        },
+        "BattleKau": {
+            "role": "dj",
+            "allowDjBooth": true,
+            "allowStaffBalcony": true,
+            "allowPlayerControl": true
+        },
+        "TygronSaber": {
+            "role": "dj",
+            "allowDjBooth": true,
+            "allowStaffBalcony": true,
+            "allowPlayerControl": true,
+            "allowDMXswitch": true
+        },
+        "OmegaSol": {
+            "role": "dj",
+            "allowDjBooth": true,
+            "allowStaffBalcony": true,
+            "allowPlayerControl": true
+        },
+        "Skally Lad": {
+            "role": "dj",
+            "allowDjBooth": true,
+            "allowStaffBalcony": true,
+            "allowPlayerControl": true
+        },
+        "Chantaro": {
+            "role": "dj",
+            "allowDjBooth": true,
+            "allowStaffBalcony": true,
+            "allowPlayerControl": true
+        },
+        "Aurelia's Wrath": {
+            "role": "dj",
+            "allowDjBooth": true,
+            "allowStaffBalcony": true,
+            "allowPlayerControl": true
+        },
+        "Goggs": {
+            "role": "dj",
+            "allowDjBooth": true,
+            "allowStaffBalcony": true,
+            "allowPlayerControl": true
+        }
+    }
+}
