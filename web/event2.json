@@ -119,6 +119,15 @@
             "allowCameraControl": true,
             "allowAudiolinkControl": true,
             "allowMicControl": true
+        },
+        "Wolfintank": {
+            "role": "dj",
+            "allowDjBooth": true,
+            "allowStaffBalcony": true,
+            "allowPlayerControl": true,
+            "allowCameraControl": true,
+            "allowAudiolinkControl": true,
+            "allowMicControl": true
         }
     }
 }
