@@ -36,17 +36,6 @@
             "allowAudiolinkControl": true,
             "allowMicControl": true
         },
-        "Rudy Dudule": {
-            "role": "moderator",
-            "langs": "fr/en",
-            "isMod": true,
-            "allowDjBooth": true,
-            "allowStaffBalcony": true,
-            "allowPlayerControl": true,
-            "allowCameraControl": true,
-            "allowAudiolinkControl": true,
-            "allowMicControl": true
-        },
         "molresa": {
             "role": "dj",
             "allowDjBooth": true,
